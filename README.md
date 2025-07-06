@@ -13,3 +13,6 @@ As the HR Analytics Lead, I conducted a detailed, data-driven investigation into
 
 The project aims to drive accountability, foster workplace inclusivity, and guide Palmoria Group toward sustainable HR practices.
 
+### Dataset Used
+The primary sources of data used here is Palmoria  Group emp-data.csv and Palmoria Group Bonus Rules.xlsx and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site.
+
