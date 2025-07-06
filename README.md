@@ -1,7 +1,7 @@
 # DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-PALMORIA-GROUP
 This Power BI dashboard delivers an in-depth HR Analysis for Palmoria Group, which reveals gender, salary, and performance disparities across regions amid public scrutiny, guiding leadership on equity and compliance improvements.
 
-## Case Study 2: Palmoria Group HR Review Analysis 
+## Case Study 2: Palmoria Group HR Review Analysis
 
 ### Project Overview
 This Data Analysis project showcases a comprehensive HR analytics case study conducted for Palmoria Group, a Nigerian manufacturing company under public scrutiny for gender imbalance and compensation disparities within its workforce. Sparked by a damaging media headline “Palmoria, the Manufacturing Patriarchy” the company’s leadership initiated a strategic push toward equity and transparency.
