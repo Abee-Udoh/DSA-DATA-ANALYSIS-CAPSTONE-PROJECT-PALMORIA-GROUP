@@ -68,6 +68,8 @@ Using Calculated measures, the following Dax expressions were used during the an
 - Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)
 - Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
   
+### Dasboard  
+https://github.com/Abee-Udoh/DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-PALMORIA-GROUP/blob/main/Palmora_Group_clean%202.pbix  
 
 ### Project Insights & Recommendations
 - Management should investigate gender imbalance in Regions and Department.
