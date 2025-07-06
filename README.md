@@ -28,3 +28,30 @@ Before analysis, the HR dataset underwent ETL process -Extract, Transform and Lo
 - Records with null salary values (indicating former employees) were excluded.
 - Records with "NULL" departments were also removed from the dataset to ensure departmental-level analysis remains reliable.
 
+### Questions & Dashboard Insights
+ 1. Gender Distribution Analysis:
+Bar chart shows visual breakdown of gender representation company-wide by region and departments.
+Identification of male-dominated and female-dominated departments.
+Pie chart shows Insight into regions with the widest gender disparity.
+
+ 2. Ratings insights based on Gender:
+Histogram showing Rating Distribution by Gender.
+Boxplots visuals to highlight disparities in performance evaluations.
+Identification of bias-prone departments
+
+ 3. Salary Structure & Gender Pay Gap Analysis
+Scatter plot visuals showing where salary discrepancies are most pronounced among gender.
+Bar chart shows evaluation of Average salary by gender, region and department.
+Identification of potential gender pay gaps.
+
+ 4. Compliance with Salary Regulation
+A recent law requires a minimum annual salary of $90,000.
+Histogram showing salary bands in $10,000 intervals (e.g. $10k–$20k, $20k–$30k, etc.).
+Bar chart showing Employee falling below minimum salary threshold by department and region.
+
+ 5. Annual Bonus Allocation Based on Performance
+Bonus rules applied using an external rating-bonus mapping file.
+Each employee’s bonus amount calculated based on performance.
+Total Amount to be paid to individual employee = Salary +  Bonus Amount calculated.
+Bar chart shows Total bonus payout company-wide
+Table showing Individual Employee Bonus Payments
