@@ -67,6 +67,7 @@ Using Calculated measures, the following Dax expressions were used during the an
 - Employees Below Minimum Salary = COUNTX(FILTER('Employee', 'Employee'[Salary] < 90000), 'Employee'[Salary])
 - Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)
 - Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
+  
 
 ### Project Insights & Recommendations
 - Management should investigate gender imbalance in Regions and Department.
