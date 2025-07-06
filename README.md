@@ -16,3 +16,15 @@ The project aims to drive accountability, foster workplace inclusivity, and guid
 ### Dataset Used
 The primary sources of data used here is Palmoria  Group emp-data.csv and Palmoria Group Bonus Rules.xlsx and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site.
 
+### Tools Used:
+- Power BI Desktop for data modeling and visualization
+- Power Query Editor for cleaning and transformation
+- DAX for calculated measures (bonus, salary + bonus, compliance checks
+- Excel for supplementary bonus rule data
+
+### Process : Data Cleaning & Preparation
+Before analysis, the HR dataset underwent ETL process -Extract, Transform and Load :
+- Employees who refused to disclose their gender were classified under a neutral category: “Others”.
+- Records with null salary values (indicating former employees) were excluded.
+- Records with "NULL" departments were also removed from the dataset to ensure departmental-level analysis remains reliable.
+
